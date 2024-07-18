@@ -8,3 +8,6 @@ It utilizes machine learning techniques, specifically classification algorithms,
 - `static/`: Folder containing CSS stylesheets and JavaScript files.
 - `templates/`: Folder with HTML templates for rendering web pages.
 - `Fish.ipynb`: Jupyter notebook detailing the process of data preprocessing, model training, and evaluation.
+
+link from pythonanywhere
+https://devikakriz.pythonanywhere.com/
